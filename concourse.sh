@@ -2,6 +2,8 @@
 
 set -x
 
+#  new commit (testing pr stuff)
+
 #  this is an experiment in using concourse CI for building K2
 cd k2
 
