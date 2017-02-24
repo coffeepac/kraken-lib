@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -xe
+set -x
 
 #  this is an experiment in using concourse CI for building K2
 cd k2
